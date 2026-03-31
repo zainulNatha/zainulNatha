@@ -76,8 +76,8 @@ I’m passionate about using data to:
 
 
 <!-- Credly -->
-<a href="[(https://www.credly.com/badges/d38deaca-4e68-49b3-bec9-d46f8cb8793c/public_url)]">
-  <img src="https://images.credly.com/images/14744318-8d6a-49c3-971d-6a4a0f524925/Certification_Designer_Core.png)" alt="Tableau Certified Data Analyst" width="19%" />
+<a href="https://www.credly.com/badges/d38deaca-4e68-49b3-bec9-d46f8cb8793c/public_url">
+  <img src="https://images.credly.com/images/14744318-8d6a-49c3-971d-6a4a0f524925/Certification_Designer_Core.png)" alt="Alteryx Designer Core Certification" width="19%" />
 </a>
 
 ⭐ *Always learning. Always building. Always improving.*
