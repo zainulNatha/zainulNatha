@@ -75,7 +75,7 @@ I’m passionate about using data to:
 ### 🏅Credentials
 
  <div align="left">
-   <img src="snowflake-hands-on-essentials.png" width="12.5%" alt="Snowflake Hands-On Essentials Data Warehouse">
+   <img src="Snowflake Hands-On Essentials Badge.png" width="12.5%" alt="Snowflake Hands-On Essentials Data Warehouse">
    <img src="https://images.credly.com/size/340x340/images/14744318-8d6a-49c3-971d-6a4a0f524925/Certification_Designer_Core.png" width="12.5%">
    <img src="https://images.credly.com/images/58b06a5f-aee6-4a11-ac53-da36d5f70e8e/image.png" width="12.5%">
    <img src="https://learn.microsoft.com/media/learn/certification/badges/microsoft-certified-associate-badge.svg?branch=main" width="12.5%">
